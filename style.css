@@ -1,0 +1,7 @@
+.topnav{
+    display: flex;
+    gap: 20%;
+}
+.sem{
+    width: 100px;
+}
