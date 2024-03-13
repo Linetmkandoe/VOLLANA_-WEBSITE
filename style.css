@@ -1,7 +1,26 @@
+.container{
+    padding: 2px;
+    margin: auto;
+}
+
+
 .topnav{
     display: flex;
-    gap: 20%;
+    gap: 100px;
 }
 .sem{
     width: 100px;
 }
+.summer{
+    width: 200px;
+    padding: 2px;
+
+
+}.inspiration{
+    text-align: center;
+}
+.img2{
+    width: 300px;height: 300px;
+    
+}
+
