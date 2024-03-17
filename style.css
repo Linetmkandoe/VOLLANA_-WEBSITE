@@ -1,6 +1,6 @@
 .container{
-    padding: 2px;
-    margin: auto;
+
+    
 }
 
 
@@ -8,19 +8,172 @@
     display: flex;
     gap: 100px;
 }
-.sem{
+
+.icons{
+    display: flex;
+    width: 20px;
+    height: 20px;
+    gap: 5px;
+}
+.summer{
+    
+}
+.fall{
+    display: flex;
+    flex-direction: column;
+}
+.inspiration{
+    display: flex;
     width: 100px;
+    height: 100px;
+}
+.nav{
+    display: grid;
+    grid: template columns 50px;
+    
 }
 .summer{
     width: 200px;
     padding: 2px;
-
-
-}.inspiration{
-    text-align: center;
 }
-.img2{
-    width: 300px;height: 300px;
+.potted{
+    width: 100px;
+    height: 200px;
+}
+.plants{
+    display: flex;
+}
+.arrivals{
+    display: flex;
+
+}
+.blog{
+    display: flex;
+    gap: 50px;
+}
+.Auctor{
+    display: flex;
+    height: 200px;
+    width: 150px;
+}
+.gravida{
+    display: flex;
     
 }
+#pot{
+    width: 200px;
+    height: 180px;
+    
+}
+.inspiration{
+    text-align: center;
+}
+.sale{
+    display: flex;
+    gap: 20px;
+}
+.store{
+    display: flex;
+    gap:5px ;
+}
+.house{
+    display: flex;
+
+}
+.july{
+    height: 150px;
+    width: 80px;
+}
+
+
+
+.img2{
+    width: 300px;height: 300px;
+
+}
+.icons2{
+    display: flex;
+    width: 0px;
+    height: 40px;
+}
+.footer{
+    display: flex;
+    gap: 50px;
+}
+.state{
+    text-align: justify;
+
+}
+.div1{
+    height: 150px;
+    width: 90px;
+    display: flex;
+    align-items: normal;
+    gap: 30px;
+
+}
+#move{
+    height:200px;
+    width: 190px;
+}
+#feb{
+    height: 200px;
+    width: 190px;
+
+}
+#june{
+    width: 190px;
+    height: 200px;
+}
+#arrow1{
+    height: 50px;
+    width: 50px;align-items: baseline;
+
+}
+#arrow2{
+    height: 50px;
+    width: 50px;
+    align-items: first baseline;  
+}
+.cactus{
+    display: flex;
+}
+.top{
+    display: flex;
+    gap: 30px;
+}
+.middle{
+    display: flex;
+    gap: 30px;
+}
+.bottom{
+    display: flex;gap: 30px;
+}
+#dolor{
+    height: 210px;
+    width: 170px;
+}
+#furn{
+    height: 220px;
+    width: 180px;
+}
+#aliq{
+    height: 220px;
+    width: 200px;
+}
+.living{
+background-image: url("https://static.vecteezy.com/system/resources/thumbnails/029/590/986/small/floral-border-frame-card-template-green-flowers-leaves-for-banner-wedding-card-springtime-composition-with-copy-space-generative-ai-illustration-photo.jpg");
+background-repeat: no-repeat;
+background-position: center;
+text-align: center;
+background-attachment: scroll;
+width: 500px;
+height: 200px;
+
+
+}
+
+
+
+
 
